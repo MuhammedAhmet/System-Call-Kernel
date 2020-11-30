@@ -1,3 +1,1 @@
-"# systeminfo-Apocalypsei" 
-
-2015510003 ---- MUHAMMED AHMET AKKOYUN
+Implementing a system call to linux kernel.
